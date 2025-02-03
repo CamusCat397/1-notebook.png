@@ -1,2 +1,2 @@
-# 1-notebook.png
+# DataScienceEcosystem.png
 Final Assignment Instructions: Create and Share Your Jupyter Notebook
